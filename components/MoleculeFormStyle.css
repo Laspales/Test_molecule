@@ -1,0 +1,29 @@
+input{
+  all: unset;
+  background: none;
+  width: 100%;
+  max-width: 350px;
+  padding: 10px;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+}
+
+button{
+  all: unset;
+  cursor: pointer;
+  padding: 10px 20px;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+  font-weight: 500;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: whitesmoke;
+  transition: all 0.3s ease;
+  }
+.error-message{
+  color: red;
+  font-size: 14px;
+  margin-top: 10px;
+  border: 1px solid red;
+  padding: 10px;
+  border-radius: 5px
+  }
