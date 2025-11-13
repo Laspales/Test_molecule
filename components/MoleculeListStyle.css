@@ -1,0 +1,10 @@
+.molecule-list table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0; 
+  }
+  .molecule-list th, .molecule-list td {
+  border: 1px solid #ddd;
+  padding: 15px;
+  text-align: center;
+  }
